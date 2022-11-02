@@ -1,0 +1,273 @@
+l_all,lat,lon
+"Bucaramanga,Santander,Colombia",7.12539,-73.1198
+"Medellín,Antioquia,Colombia",6.25184,-75.56359
+"Barranquilla,Atlántico,Colombia",10.96389,-74.79639
+"Montería,Córdoba,Colombia",8.763871,-75.879135
+"Villa Maria,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Villavicencio,Meta,Colombia",4.142,-73.62664
+"Cartago,Valle del Cauca,Colombia",4.74639,-75.91167
+"Bosa,Zona Suroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Cali,Valle del Cauca,Colombia",3.43722,-76.5225
+"Manizales,Caldas,Colombia",5.065894,-75.504741
+"Pereira,Risaralda,Colombia",4.812095,-75.685157
+"Santa Marta,Magdalena,Colombia",11.24079,-74.19904
+"La Ceja,Antioquia,Colombia",6.03082,-75.4315
+"Las Palmas,Barranquilla,Atlántico,Colombia",10.96389,-74.79639
+"Guarne,Antioquia,Colombia",6.28046,-75.44354
+"Palestina,Caldas,Colombia",5.0194,-75.62242
+"San Francisco,Cundinamarca,Colombia",4.97372,-74.29006
+"Popayán,Cauca,Colombia",2.419993,-76.610011
+"Rionegro,Antioquia,Colombia",6.15515,-75.37371
+"Neiva,Huila,Colombia",2.934469,-75.289134
+"Chía,Cundinamarca,Colombia",4.85876,-74.05866
+"Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Piedecuesta,Santander,Colombia",6.98789,-73.04953
+"Tuluá,Valle del Cauca,Colombia",4.08466,-76.19536
+"Cartagena,Bolívar,Colombia",10.39972,-75.51444
+"Bello,Antioquia,Colombia",6.33732,-75.55795
+"Floridablanca,Santander,Colombia",7.06222,-73.08644
+"Barrios Unidos,Zona Chapinero,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Teusaquillo,Zona Chapinero,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Sabaneta,Antioquia,Colombia",6.141405,-75.652964
+"Chapinero,Zona Chapinero,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Veraguas,Los Mártires,Zona Centro,Bogotá D.C,Cundinamarca,Colombia",5.089656,-74.341269
+"La Calera,Cundinamarca,Colombia",4.72069,-73.96926
+"Ibagué,Tolima,Colombia",4.438914,-75.232214
+"Envigado,Antioquia,Colombia",6.17591,-75.59174
+"Jamundí,Valle del Cauca,Colombia",3.26074,-76.53499
+"Itagui,Antioquia,Colombia",6.18461,-75.59913
+"Fusagasugá,Cundinamarca,Colombia",4.33646,-74.36378
+"Usaquén,Zona Norte,Bogotá D.C,Cundinamarca,Colombia",4.67203,-73.91502
+"Kennedy,Zona Suroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Soacha,Cundinamarca,Colombia",4.57937,-74.21682
+"Antioquia,Colombia",6.25184,-75.56359
+"Cúcuta,Norte de Santander,Colombia",7.89391,-72.50782
+"El Progreso,Los Mártires,Zona Centro,Bogotá D.C,Cundinamarca,Colombia",5.089656,-74.341269
+"Cajicá,Cundinamarca,Colombia",4.91857,-74.02799
+"Santa Fe,Zona Centro,Bogotá D.C,Cundinamarca,Colombia",5.089656,-74.341269
+"Palmira,Valle del Cauca,Colombia",3.53944,-76.30361
+"Alameda,Los Mártires,Zona Centro,Bogotá D.C,Cundinamarca,Colombia",5.089656,-74.341269
+"El Retiro,Chapinero,Zona Chapinero,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Puente Aranda,Zona Centro,Bogotá D.C,Cundinamarca,Colombia",5.089656,-74.341269
+"San Luis,Chapinero,Zona Chapinero,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Armenia,Quindío,Colombia",4.53389,-75.68111
+"Pance,Cali,Valle del Cauca,Colombia",3.328494,-76.634016
+"Florencia,Caquetá,Colombia",1.613746,-75.613059
+"Chico Norte,Chapinero,Zona Chapinero,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Colombia,Huila,Colombia",3.37606,-74.8015
+"Sucre,Colombia",8.81136,-74.72084
+"Santa Catalina,Bolívar,Colombia",10.60361,-75.28824
+"Santa Barbara,Usaquén,Zona Norte,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"La Florida,Caldas,Colombia",5.55833,-73.85167
+"Tunja,Boyacá,Colombia",5.53528,-73.36778
+"Carmen de Carupa,Cundinamarca,Colombia",5.34862,-73.90168
+"Campo Alegre,Barranquilla,Atlántico,Colombia",10.96389,-74.79639
+"Marsella,Risaralda,Colombia",4.93722,-75.73778
+"La Estrella,Antioquia,Colombia",6.15769,-75.64317
+"Antonio Nariño,Zona Sur,Bogotá D.C,Cundinamarca,Colombia",37.490824,15.059433
+"Las Delicias,Kennedy,Zona Suroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Tubará,Atlántico,Colombia",10.87444,-74.97889
+"Barbosa,Antioquia,Colombia",6.43809,-75.33136
+"Funza,Cundinamarca,Colombia",4.71638,-74.21195
+"La Estanzuela,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Palermo,Teusaquillo,Zona Chapinero,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Puerto Colombia,Atlántico,Colombia",10.98778,-74.95472
+"San Antonio Norte,Usaquén,Zona Norte,Bogotá D.C,Cundinamarca,Colombia",4.67203,-73.91502
+"Santa Paula,Usaquén,Zona Norte,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Paseo de la Castellana,Barranquilla,Atlántico,Colombia",10.96389,-74.79639
+"La Calleja,Usaquén,Zona Norte,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Villeta,Cundinamarca,Colombia",5.00886,-74.47226
+"Laureles,Medellín,Antioquia,Colombia",6.25184,-75.56359
+"Niza,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Centenario,Rafael Uribe Uribe,Zona Sur,Bogotá D.C,Cundinamarca,Colombia",37.490824,15.059433
+"Sabanalarga,Atlántico,Colombia",10.62962,-74.92063
+"Cedritos,Usaquén,Zona Norte,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Fontibón,Zona Occidental,Bogotá D.C,Cundinamarca,Colombia",20.722181,-103.348373
+"La Candelaria,Zona Centro,Bogotá D.C,Cundinamarca,Colombia",5.089656,-74.341269
+"Copacabana,Antioquia,Colombia",6.34633,-75.50888
+"Guainía,Colombia",2.727537,-68.811118
+"Risaralda,Colombia",5.275739,-75.987105
+"Santa Rosa,Bolívar,Colombia",10.44472,-75.36972
+"El Recreo,Barranquilla,Atlántico,Colombia",10.96389,-74.79639
+"Las Orquideas,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Norte de Santander,Colombia",8.188397,-72.868532
+"Dibulla,La Guajira,Colombia",11.27251,-73.30911
+"Quindío,Colombia",4.50643,-75.711043
+"Norte-Centro Histórico,Barranquilla,Atlántico,Colombia",10.99428,-74.83046
+"Facatativá,Cundinamarca,Colombia",4.81367,-74.35453
+"Filandia,Quindío,Colombia",4.67472,-75.65833
+"Eduardo Santos,Santa Fe,Zona Centro,Bogotá D.C,Cundinamarca,Colombia",5.089656,-74.341269
+"Los Rosales,Chapinero,Zona Chapinero,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Andes Norte,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"El Refugio,Fontibón,Zona Occidental,Bogotá D.C,Cundinamarca,Colombia",20.722181,-103.348373
+"Valledupar,Cesar,Colombia",10.46314,-73.25322
+"Belén,Medellín,Antioquia,Colombia",6.23265,-75.59884
+"Leticia,Amazonas,Colombia",-4.21528,-69.94056
+"Los Patios,Norte de Santander,Colombia",7.83793,-72.5037
+"San Gil,Santander,Colombia",6.55573,-73.13309
+"San Jerónimo,Antioquia,Colombia",6.44344,-75.72815
+"El Peñón,Cundinamarca,Colombia",5.25264,-74.29069
+"Santa Mónica,Cali,Valle del Cauca,Colombia",3.43722,-76.5225
+"La Estancia,Ciudad Bolívar,Zona Sur,Bogotá D.C,Cundinamarca,Colombia",5.0,-74.16667
+"Puerto Salgar,Cundinamarca,Colombia",5.46304,-74.65436
+"Las Nieves,Santa Fe,Zona Centro,Bogotá D.C,Cundinamarca,Colombia",5.0,-74.16667
+"Nueva Castilla,Fontibón,Zona Occidental,Bogotá D.C,Cundinamarca,Colombia",20.722181,-103.348373
+"Quirigua,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Retiro,Antioquia,Colombia",6.05861,-75.50306
+"Bogotá D.C,Cundinamarca,Colombia",5.089656,-74.341269
+"San Andrés,San Andrés Providencia y Santa Catalina,Colombia",10.60361,-75.28824
+"Boyacá,Colombia",5.45372,-73.3625
+"Melgar,Tolima,Colombia",4.20475,-74.64075
+"Cota,Cundinamarca,Colombia",4.80938,-74.098
+"Chapinero Central,Chapinero,Zona Chapinero,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"San Cristobal,Zona Sur,Bogotá D.C,Cundinamarca,Colombia",5.089656,-74.341269
+"Yopal,Casanare,Colombia",5.349077,-72.406082
+"El Salitre,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Girón,Santander,Colombia",7.0682,-73.16981
+"Tunjuelito,Zona Sur,Bogotá D.C,Cundinamarca,Colombia",5.089656,-74.341269
+"Engativa,Zona Occidental,Bogotá D.C,Cundinamarca,Colombia",20.722181,-103.348373
+"Salitre ,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Bolívar,Colombia",10.26667,-75.46667
+"Guayabal,Medellín,Antioquia,Colombia",6.33429,-75.69525
+"Gran America,Teusaquillo,Zona Chapinero,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Candelaria,Medellín,Antioquia,Colombia",6.25184,-75.56359
+"Villamaría,Caldas,Colombia",5.04492,-75.5146
+"San Bernardo,Cundinamarca,Colombia",4.17864,-74.42311
+"Patio Bonito,Kennedy,Zona Suroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"El Limonar,Cali,Valle del Cauca,Colombia",3.39778,-76.51139
+"El Poblado,Medellín,Antioquia,Colombia",6.25184,-75.56359
+"Alcala,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"San Cristóbal,Medellín,Antioquia,Colombia",6.27876,-75.63523
+"Rafael Uribe Uribe,Zona Sur,Bogotá D.C,Cundinamarca,Colombia",37.490824,15.059433
+"Carmen de Apicalá,Tolima,Colombia",4.14725,-74.72014
+"Prado Veraniego,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Restrepo,Antonio Nariño,Zona Sur,Bogotá D.C,Cundinamarca,Colombia",37.490824,15.059433
+"Las Aguas,La Candelaria,Zona Centro,Bogotá D.C,Cundinamarca,Colombia",5.089656,-74.341269
+"La Cumbre,Valle del Cauca,Colombia",3.64999,-76.56984
+"Gachancipá,Cundinamarca,Colombia",4.99111,-73.87154
+"La Guajira,Colombia",11.45007,-72.449429
+"Granada,Meta,Colombia",3.53861,-73.70056
+"La Merced,Santa Fe,Zona Centro,Bogotá D.C,Cundinamarca,Colombia",5.0,-74.16667
+"Ciudadela Colsubsidio,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Cauca,Colombia",2.57173,-76.77979
+"Santa Isabel,Cali,Valle del Cauca,Colombia",3.43722,-76.5225
+"Hayuelos,Fontibón,Zona Occidental,Bogotá D.C,Cundinamarca,Colombia",20.722181,-103.348373
+"Madelena,Ciudad Bolívar,Zona Sur,Bogotá D.C,Cundinamarca,Colombia",5.089656,-74.341269
+"Puerto Colombia,Barranquilla,Atlántico,Colombia",10.96389,-74.79639
+"Los Mártires,Zona Centro,Bogotá D.C,Cundinamarca,Colombia",5.089656,-74.341269
+"Soledad,Atlántico,Colombia",10.91843,-74.76459
+"Villa del Rosario,Norte de Santander,Colombia",7.83389,-72.47417
+"Buenos Aires,Medellín,Antioquia,Colombia",6.23648,-75.5555
+"Tocancipá,Cundinamarca,Colombia",4.96531,-73.91301
+"La Flora,Cali,Valle del Cauca,Colombia",3.43722,-76.5225
+"Barrancabermeja,Santander,Colombia",7.06528,-73.85472
+"Ricaurte,Cundinamarca,Colombia",4.28075,-74.76469
+"Bella Suiza,Usaquén,Zona Norte,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Ciudad Jardín,Cali,Valle del Cauca,Colombia",3.36139,-76.53429
+"Santa Rita,Vichada,Colombia",4.48698,-69.79373
+"Acandí,Chocó,Colombia",8.50633,-77.27784
+"Girardot,Cundinamarca,Colombia",4.29866,-74.80468
+"El Castillo,Chapinero,Zona Chapinero,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Castilla,Kennedy,Zona Suroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Colina Campestre,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Ciudad Salitre,Fontibón,Zona Occidental,Bogotá D.C,Cundinamarca,Colombia",20.722181,-103.348373
+"Las Cruces,Santa Fe,Zona Centro,Bogotá D.C,Cundinamarca,Colombia",5.089656,-74.341269
+"Chapinero Alto,Chapinero,Zona Chapinero,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Aranjuez,Medellín,Antioquia,Colombia",6.291769,-75.547477
+"Bochica,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Pablo VI,Teusaquillo,Zona Chapinero,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Coello,Tolima,Colombia",4.434677,-74.957387
+"Popular,Medellín,Antioquia,Colombia",6.207058,-75.571792
+"San Diego,Santa Fe,Zona Centro,Bogotá D.C,Cundinamarca,Colombia",20.534087,-97.443567
+"Santagueda,Caldas,Colombia",5.065,-75.66306
+"Ríomar,Barranquilla,Atlántico,Colombia",11.02579,-74.81672
+"Florida,Valle del Cauca,Colombia",3.3223,-76.2348
+"La Virginia,Risaralda,Colombia",4.89972,-75.8825
+"Nicolas De Federman,Teusaquillo,Zona Chapinero,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Olaya,Barranquilla,Atlántico,Colombia",10.96389,-74.79639
+"Bochalema,Norte de Santander,Colombia",7.61096,-72.64774
+"Santander,Colombia",6.676329,-73.416147
+"Mosquera,Cundinamarca,Colombia",4.70592,-74.23021
+"Gratamira,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"El Tunal,Tunjuelito,Zona Sur,Bogotá D.C,Cundinamarca,Colombia",37.490824,15.059433
+"Dos Quebradas,Risaralda,Colombia",4.83916,-75.66726
+"Pontevedra ,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Marly,Chapinero,Zona Chapinero,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Modelia,Fontibón,Zona Occidental,Bogotá D.C,Cundinamarca,Colombia",20.722181,-103.348373
+"Garzón,Huila,Colombia",2.19593,-75.62777
+"Villas De Granada,Engativa,Zona Occidental,Bogotá D.C,Cundinamarca,Colombia",20.722181,-103.348373
+"Gran Granada,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Anapoima,Cundinamarca,Colombia",4.52028,-74.53944
+"Santa Ana,Usaquén,Zona Norte,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Chico Navarra,Usaquén,Zona Norte,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Tibaná,Boyacá,Colombia",5.31728,-73.39655
+"La Felicidad,Fontibón,Zona Occidental,Bogotá D.C,Cundinamarca,Colombia",20.722181,-103.348373
+"Libertador,Rafael Uribe Uribe,Zona Sur,Bogotá D.C,Cundinamarca,Colombia",37.490824,15.059433
+"San Cayetano,Cundinamarca,Colombia",5.30153,-74.06954
+"San Rafael,Antioquia,Colombia",6.29436,-75.02589
+"Puente Largo,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"El Contador,Usaquén,Zona Norte,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Santa Rosa de Cabal,Risaralda,Colombia",4.86806,-75.62139
+"Turbaná,Bolívar,Colombia",10.2717,-75.44222
+"Nilo,Cundinamarca,Colombia",4.30604,-74.62083
+"Córdoba,Colombia",8.236951,-75.736206
+"Las Ferias,Engativa,Zona Occidental,Bogotá D.C,Cundinamarca,Colombia",20.722181,-103.348373
+"Santa Cruz,Medellín,Antioquia,Colombia",6.25184,-75.56359
+"Moniquirá,Boyacá,Colombia",5.87638,-73.57284
+"Tenjo,Cundinamarca,Colombia",4.8727,-74.14435
+"Robledo,Medellín,Antioquia,Colombia",6.271931,-75.59133
+"San Martín,Meta,Colombia",3.69637,-73.69958
+"Chico Reservado,Chapinero,Zona Chapinero,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"San Marcos,Sucre,Colombia",8.65972,-75.12809
+"Turbaco,Bolívar,Colombia",10.32944,-75.41137
+"Restrepo,Meta,Colombia",4.25833,-73.56142
+"Normandia,Engativa,Zona Occidental,Bogotá D.C,Cundinamarca,Colombia",20.722181,-103.348373
+"Soledad,Barranquilla,Atlántico,Colombia",10.91843,-74.76459
+"Génova,Quindío,Colombia",4.31667,-75.76667
+"Cesar,Colombia",9.882069,-73.42306
+"Madrid,Cundinamarca,Colombia",4.73244,-74.26419
+"Cabrera,Cundinamarca,Colombia",3.98598,-74.48283
+"La Vega,Cundinamarca,Colombia",4.99779,-74.33979
+"Caldas,Antioquia,Colombia",6.054654,-75.626868
+"Andalucía,Valle del Cauca,Colombia",4.17061,-76.16641
+"Calarca,Quindío,Colombia",4.52949,-75.64091
+"La Granja,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Roma,Bosa,Zona Suroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"El Virrey,Chapinero,Zona Chapinero,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Girardota,Antioquia,Colombia",6.37712,-75.4478
+"Villa Claudia,Puente Aranda,Zona Centro,Bogotá D.C,Cundinamarca,Colombia",5.089656,-74.341269
+"Centro Internacional,Santa Fe,Zona Centro,Bogotá D.C,Cundinamarca,Colombia",20.534087,-97.443567
+"El Prado,Bucaramanga,Santander,Colombia",7.12539,-73.1198
+"Santa Elena,Medellín,Antioquia,Colombia",6.2226,-75.50413
+"Metropolis,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Sincelejo,Sucre,Colombia",9.30472,-75.39778
+"Ciudad Bolívar,Zona Sur,Bogotá D.C,Cundinamarca,Colombia",5.089656,-74.341269
+"Salento,Quindío,Colombia",4.6375,-75.57028
+"Viterbo,Caldas,Colombia",5.06242,-75.87159
+"Marinilla,Antioquia,Colombia",6.17358,-75.33621
+"Antonia Santos,Bucaramanga,Santander,Colombia",6.29465,-73.041899
+"San Cipriano,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"San Alonso,Bucaramanga,Santander,Colombia",7.131443,-73.118673
+"Cundinamarca,Colombia",5.089656,-74.341269
+"San Mateo,Soacha,Cundinamarca,Colombia",4.57937,-74.21682
+"Coveñas,Sucre,Colombia",9.40412,-75.69628
+"Chiquinquirá,Boyacá,Colombia",5.61637,-73.81748
+"Nueva Granada,Barranquilla,Atlántico,Colombia",10.96389,-74.79639
+"Caney,Cali,Valle del Cauca,Colombia",4.47361,-76.17889
+"La Soledad ,Teusaquillo,Zona Chapinero,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Portales Del Norte,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Santa Sofía,Boyacá,Colombia",5.70908,-73.60404
+"Santa Maria Del Lago,Engativa,Zona Occidental,Bogotá D.C,Cundinamarca,Colombia",20.722181,-103.348373
+"Lagos De Cordoba,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Mazuren,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Mirandela ,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"La Tebaida,Quindío,Colombia",4.430314,-75.810404
+"Parque Central Bavaria,Santa Fe,Zona Centro,Bogotá D.C,Cundinamarca,Colombia",5.0,-74.16667
+"Pinar De Suba,Suba,Zona Noroccidental,Bogotá D.C,Cundinamarca,Colombia",44.52575,18.521256
+"Jardín,Antioquia,Colombia",5.59902,-75.81976
+"Villanueva,Casanare,Colombia",5.28333,-71.96667
+"El Rosal,Cundinamarca,Colombia",4.85314,-74.25996
+"Prado,Tolima,Colombia",3.372527,-75.587282
+"Zona Franca,Fontibón,Zona Occidental,Bogotá D.C,Cundinamarca,Colombia",11.670234,-70.200271
+"20 De Julio,Antonio Nariño,Zona Sur,Bogotá D.C,Cundinamarca,Colombia",1.227745,-77.284524
+"Valle del Cauca,Colombia",3.679421,-76.378822
