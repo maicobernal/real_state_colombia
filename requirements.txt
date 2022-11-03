@@ -14,3 +14,5 @@ tpot
 shapely
 scipy
 geopy
+pygeos
+rtree
