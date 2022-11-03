@@ -1,0 +1,16 @@
+pandas
+numpy
+geopandas
+folium
+sklearn
+tableone
+pandas_profiling
+squarify
+spacy
+missingno
+wordcloud
+nltk
+tpot
+shapely
+scipy
+geopy
