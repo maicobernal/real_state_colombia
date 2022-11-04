@@ -16,3 +16,4 @@ scipy
 geopy
 pygeos
 rtree
+dtreeviz
