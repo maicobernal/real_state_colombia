@@ -5,11 +5,13 @@
 ### Autor: Maico Bernal
 ### email: bernalmaico@gmail.com
 
-You can check the assignment on the *CONSIGNAS.md* file. 
+Welcome to this project! It's part of Henry Bootcamp Labs Individual Projects. 
+
+You can check the repository and the readme on this link: https://github.com/soyHenry/Datathon or at *CONSIGNAS.md* file. 
 
 For further analysis and development forwarding this contest everything is written in English.
 
-As you can see this repo has 5 main notebooks.
+As you can see this repository has 5 main notebooks.
 You can open and get into the dataset transformation and analysis running each one in order. 
 
 - Notebook 1: Initial cleaning, feature extraction, imputation and analysis.
